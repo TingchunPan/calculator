@@ -1,6 +1,6 @@
 # calculator
 This is assignment 2 for creating a simple calculator in the OOP module of MSc Computer Science.
-It contain 4 exercises to build this calculator. 
+It includes 4 exercises to build this calculator. 
 
 Exercise 1: A Basic Calculator
 The calculator can evaluate basic expressions of the following form: operand[space]operator[space]operand. For example, 3 + 4, 2 ∗ 10.5, 10 / 5, 39.255 − 47.
