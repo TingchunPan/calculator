@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 This is assignment 2 for creating a simple calculator in the OOP module of MSc Computer Science.
 It includes 4 exercises to build this calculator. 
 
