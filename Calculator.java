@@ -1,6 +1,4 @@
-package com.bham.pij.assignments.calculator;
-
-// Tingchun Pan 2147761
+// Tingchun Pan
 import java.util.ArrayList;
 import java.util.Scanner;
 
